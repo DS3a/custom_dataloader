@@ -1,0 +1,7 @@
+,FileName,InLane,LaneMaskFileName,LinesMaskFileName,BlobsMaskFileName
+0,./dataset/no_lane/original/virus (3rd copy).png,False,./dataset/no_lane/lane_mask/virus (3rd copy).png,./dataset/no_lane/lines_mask/virus (3rd copy).png,./dataset/no_lane/blobs_mask/virus (3rd copy).png
+1,./dataset/no_lane/original/virus (copy).png,False,./dataset/no_lane/lane_mask/virus (copy).png,./dataset/no_lane/lines_mask/virus (copy).png,./dataset/no_lane/blobs_mask/virus (copy).png
+2,./dataset/no_lane/original/virus (4th copy).png,False,./dataset/no_lane/lane_mask/virus (4th copy).png,./dataset/no_lane/lines_mask/virus (4th copy).png,./dataset/no_lane/blobs_mask/virus (4th copy).png
+3,./dataset/lane/original/virus (3rd copy).png,True,./dataset/lane/lane_mask/virus (3rd copy).png,./dataset/lane/lines_mask/virus (3rd copy).png,./dataset/lane/blobs_mask/virus (3rd copy).png
+4,./dataset/lane/original/virus.png,True,./dataset/lane/lane_mask/virus.png,./dataset/lane/lines_mask/virus.png,./dataset/lane/blobs_mask/virus.png
+5,./dataset/lane/original/virus (another copy).png,True,./dataset/lane/lane_mask/virus (another copy).png,./dataset/lane/lines_mask/virus (another copy).png,./dataset/lane/blobs_mask/virus (another copy).png
